@@ -19,7 +19,7 @@ I have been coding since May of 2019! I am a mother of 1 human, 1 dog and 1 cat.
 
 
 ### ☕ Get In Touch
--[Twitter](https://twitter.com/islabrynna)
+- [Twitter](https://twitter.com/islabrynna)
 - [Personal Site](https://www.isla-mcneill.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=islamcn.islamcn)
